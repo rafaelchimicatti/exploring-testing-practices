@@ -37,6 +37,6 @@ Com base nos dados obtidos, selecione uma prática ou dado de teste relevante e 
 
 ## Respostas
 
-**1. Repositório selecionado:** `<URL_DO_REPOSITÓRIO_AQUI>`
+**1. Repositório selecionado:** `<https://github.com/scikit-learn/scikit-learn>`
 
-**2. Explicação:** `<SUA_EXPLICAÇÃO_AQUI>`
+**2. Explicação:** `<Ao analisar o repositório scikit-learn via TestMiner, destaca-se a prática de Testes Parametrizados com a biblioteca pytest, que permite executar a mesma lógica de verificação sob diversas combinações de dados e hiperparâmetros. Essa abordagem é fundamental para sistemas de processamento de dados, pois garante a integridade dos algoritmos em diferentes cenários de entrada sem replicar código, facilitando a identificação de falhas específicas em conjuntos de dados variados e mantendo uma suite de testes concisa, escalável e de alta cobertura.>`
